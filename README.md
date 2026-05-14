@@ -166,20 +166,9 @@ This repository is for educational purposes. Feel free to use and modify the cod
 
 ## 👤 Author
 
-**Tushar K. Patel**
+**Tushar Kaldate**
 - GitHub: [@tusharkkp](https://github.com/tusharkkp)
 - Repository: [DS-LAB-II](https://github.com/tusharkkp/DS-LAB-II)
 
-## 📞 Support
-
-For questions or issues:
-- Review the code comments
-- Check similar implementations
-- Refer to learning resources
-- Consult with instructors or peers
-
----
 
 **Last Updated**: May 14, 2026
-
-*Happy Learning! 🎓*
